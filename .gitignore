@@ -1,0 +1,3 @@
+secrets.env
+*.env
+*.log and .DS_Store

@@ -1,0 +1,5 @@
+Four security practices every developer should follow:
+-Validate and sanitize all input
+-Never hardcode secrets
+-Keep dependencies updated
+-Apply least privilege

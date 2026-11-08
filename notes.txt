@@ -1,0 +1,15 @@
+Three core concepts covered during Session 01:
+1-The difference between Git and GitHub:
+
+Git is a version control tool that runs on your own computer 
+While GitHub is a website that hosts Git repositories online.
+Git is the engine, and GitHub is the place where you store and share what the engine produces.
+
+2-The four Git storage areas:
+-Working directory.
+-Staging area.
+-Local repository.
+-Remote repository.
+
+3-Why pre-merge gates matter:
+They matter because they keep the main branch stable, catch bugs while they are still cheap to fix.

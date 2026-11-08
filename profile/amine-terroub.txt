@@ -1,0 +1,8 @@
+hello i am amine terroub i am 20 years old i dont have any backround in tech
+in this program i want to learn:
+
+Git and GitHub: Mastering branching, merging, and pull requests to keep my scripts and lab notes organized.
+
+Network and Linux security: Understanding how traffic flows and how systems are configured and hardened.
+
+Penetration testing methodology: Learning reconnaissance, scanning, exploitation, and reporting in ethical lab environments.
